@@ -1,0 +1,15 @@
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\AnonymousFunction\AnonymousFunction\bin\Debug\net6.0\AnonymousFunction.exe
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\AnonymousFunction\AnonymousFunction\bin\Debug\net6.0\AnonymousFunction.deps.json
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\AnonymousFunction\AnonymousFunction\bin\Debug\net6.0\AnonymousFunction.runtimeconfig.json
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\AnonymousFunction\AnonymousFunction\bin\Debug\net6.0\AnonymousFunction.dll
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\AnonymousFunction\AnonymousFunction\bin\Debug\net6.0\AnonymousFunction.pdb
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\AnonymousFunction\AnonymousFunction\obj\Debug\net6.0\AnonymousFunction.csproj.AssemblyReference.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\AnonymousFunction\AnonymousFunction\obj\Debug\net6.0\AnonymousFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\AnonymousFunction\AnonymousFunction\obj\Debug\net6.0\AnonymousFunction.AssemblyInfoInputs.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\AnonymousFunction\AnonymousFunction\obj\Debug\net6.0\AnonymousFunction.AssemblyInfo.cs
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\AnonymousFunction\AnonymousFunction\obj\Debug\net6.0\AnonymousFunction.csproj.CoreCompileInputs.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\AnonymousFunction\AnonymousFunction\obj\Debug\net6.0\AnonymousFunction.dll
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\AnonymousFunction\AnonymousFunction\obj\Debug\net6.0\refint\AnonymousFunction.dll
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\AnonymousFunction\AnonymousFunction\obj\Debug\net6.0\AnonymousFunction.pdb
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\AnonymousFunction\AnonymousFunction\obj\Debug\net6.0\AnonymousFunction.genruntimeconfig.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\AnonymousFunction\AnonymousFunction\obj\Debug\net6.0\ref\AnonymousFunction.dll

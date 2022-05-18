@@ -1,0 +1,30 @@
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Delegates\Delegates\bin\Debug\net6.0\Delegates.exe
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Delegates\Delegates\bin\Debug\net6.0\Delegates.deps.json
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Delegates\Delegates\bin\Debug\net6.0\Delegates.runtimeconfig.json
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Delegates\Delegates\bin\Debug\net6.0\Delegates.dll
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Delegates\Delegates\bin\Debug\net6.0\Delegates.pdb
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Delegates\Delegates\obj\Debug\net6.0\Delegates.csproj.AssemblyReference.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Delegates\Delegates\obj\Debug\net6.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Delegates\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfoInputs.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Delegates\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfo.cs
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Delegates\Delegates\obj\Debug\net6.0\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Delegates\Delegates\obj\Debug\net6.0\Delegates.dll
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Delegates\Delegates\obj\Debug\net6.0\refint\Delegates.dll
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Delegates\Delegates\obj\Debug\net6.0\Delegates.pdb
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Delegates\Delegates\obj\Debug\net6.0\Delegates.genruntimeconfig.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Delegates\Delegates\obj\Debug\net6.0\ref\Delegates.dll
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Lec 1 - A - Delegates\Delegates\bin\Debug\net6.0\Delegates.exe
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Lec 1 - A - Delegates\Delegates\bin\Debug\net6.0\Delegates.deps.json
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Lec 1 - A - Delegates\Delegates\bin\Debug\net6.0\Delegates.runtimeconfig.json
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Lec 1 - A - Delegates\Delegates\bin\Debug\net6.0\Delegates.dll
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Lec 1 - A - Delegates\Delegates\bin\Debug\net6.0\Delegates.pdb
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Lec 1 - A - Delegates\Delegates\obj\Debug\net6.0\Delegates.csproj.AssemblyReference.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Lec 1 - A - Delegates\Delegates\obj\Debug\net6.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Lec 1 - A - Delegates\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfoInputs.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Lec 1 - A - Delegates\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfo.cs
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Lec 1 - A - Delegates\Delegates\obj\Debug\net6.0\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Lec 1 - A - Delegates\Delegates\obj\Debug\net6.0\Delegates.dll
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Lec 1 - A - Delegates\Delegates\obj\Debug\net6.0\refint\Delegates.dll
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Lec 1 - A - Delegates\Delegates\obj\Debug\net6.0\Delegates.pdb
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Lec 1 - A - Delegates\Delegates\obj\Debug\net6.0\Delegates.genruntimeconfig.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\Lec 1 - A - Delegates\Delegates\obj\Debug\net6.0\ref\Delegates.dll

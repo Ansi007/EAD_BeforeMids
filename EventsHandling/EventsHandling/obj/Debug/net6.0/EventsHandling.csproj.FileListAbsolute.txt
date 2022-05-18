@@ -1,0 +1,15 @@
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventsHandling\EventsHandling\bin\Debug\net6.0\EventsHandling.exe
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventsHandling\EventsHandling\bin\Debug\net6.0\EventsHandling.deps.json
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventsHandling\EventsHandling\bin\Debug\net6.0\EventsHandling.runtimeconfig.json
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventsHandling\EventsHandling\bin\Debug\net6.0\EventsHandling.dll
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventsHandling\EventsHandling\bin\Debug\net6.0\EventsHandling.pdb
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventsHandling\EventsHandling\obj\Debug\net6.0\EventsHandling.csproj.AssemblyReference.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventsHandling\EventsHandling\obj\Debug\net6.0\EventsHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventsHandling\EventsHandling\obj\Debug\net6.0\EventsHandling.AssemblyInfoInputs.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventsHandling\EventsHandling\obj\Debug\net6.0\EventsHandling.AssemblyInfo.cs
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventsHandling\EventsHandling\obj\Debug\net6.0\EventsHandling.csproj.CoreCompileInputs.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventsHandling\EventsHandling\obj\Debug\net6.0\EventsHandling.dll
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventsHandling\EventsHandling\obj\Debug\net6.0\refint\EventsHandling.dll
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventsHandling\EventsHandling\obj\Debug\net6.0\EventsHandling.pdb
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventsHandling\EventsHandling\obj\Debug\net6.0\EventsHandling.genruntimeconfig.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventsHandling\EventsHandling\obj\Debug\net6.0\ref\EventsHandling.dll

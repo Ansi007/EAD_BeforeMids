@@ -1,0 +1,33 @@
+﻿@using MVC_PRACTICE.Models
+@model List<MVC_PRACTICE.Models.Student>
+
+<html>
+
+    <table border = "1px">
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>CGPA</th>
+            <th>Semester</th>
+        </tr>
+
+        <tbody>
+        @foreach(MVC_PRACTICE.Models.Student s in Model)
+        {
+            <tr>
+                <td>@s.Name</td>
+                <td>@s.Age</td>
+                <td>@s.CGPA</td>
+                <td>@s.Semester</td>
+            </tr>
+        }
+        <tr>
+            <td>@ViewBag.user1.Name</td>
+            <td>@ViewBag.user1.Age</td>
+            <td>@ViewBag.user1.CGPA</td>
+            <td>@ViewBag.user1.Semester</td>
+        </tr>
+        </tbody>
+    </table>
+
+</html>

@@ -1,0 +1,25 @@
+﻿@using MVC_PRACTICE
+@using MVC_PRACTICE.Models
+@model Student
+
+@{
+    ViewData["Title"] = "Sign Up";
+}
+
+<html>
+    <form method = "post" action = "/Home/SignUp">
+        <label asp-for = "Name">Name: </label>
+        <input asp-for = "Name"/><br />
+
+        <label asp-for = "Age">Age: </label>
+        <input asp-for = "Age"/><br />
+        
+        <label asp-for = "CGPA">CGPA: </label>
+        <input asp-for = "CGPA"/><br />
+        
+        <label asp-for = "Semester">Semester: </label>
+        <input asp-for = "Semester"/><br />
+    
+        <input type = "submit" value = "Submit"/>
+    </form>
+</html>

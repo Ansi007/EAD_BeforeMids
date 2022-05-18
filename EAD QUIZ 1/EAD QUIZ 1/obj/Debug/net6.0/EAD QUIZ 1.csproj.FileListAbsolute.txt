@@ -1,0 +1,15 @@
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EAD QUIZ 1\EAD QUIZ 1\obj\Debug\net6.0\EAD QUIZ 1.csproj.AssemblyReference.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EAD QUIZ 1\EAD QUIZ 1\obj\Debug\net6.0\EAD QUIZ 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EAD QUIZ 1\EAD QUIZ 1\obj\Debug\net6.0\EAD QUIZ 1.AssemblyInfoInputs.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EAD QUIZ 1\EAD QUIZ 1\obj\Debug\net6.0\EAD QUIZ 1.AssemblyInfo.cs
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EAD QUIZ 1\EAD QUIZ 1\obj\Debug\net6.0\EAD QUIZ 1.csproj.CoreCompileInputs.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EAD QUIZ 1\EAD QUIZ 1\bin\Debug\net6.0\EAD QUIZ 1.exe
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EAD QUIZ 1\EAD QUIZ 1\bin\Debug\net6.0\EAD QUIZ 1.deps.json
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EAD QUIZ 1\EAD QUIZ 1\bin\Debug\net6.0\EAD QUIZ 1.runtimeconfig.json
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EAD QUIZ 1\EAD QUIZ 1\bin\Debug\net6.0\EAD QUIZ 1.dll
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EAD QUIZ 1\EAD QUIZ 1\bin\Debug\net6.0\EAD QUIZ 1.pdb
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EAD QUIZ 1\EAD QUIZ 1\obj\Debug\net6.0\EAD QUIZ 1.dll
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EAD QUIZ 1\EAD QUIZ 1\obj\Debug\net6.0\refint\EAD QUIZ 1.dll
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EAD QUIZ 1\EAD QUIZ 1\obj\Debug\net6.0\EAD QUIZ 1.pdb
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EAD QUIZ 1\EAD QUIZ 1\obj\Debug\net6.0\EAD QUIZ 1.genruntimeconfig.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EAD QUIZ 1\EAD QUIZ 1\obj\Debug\net6.0\ref\EAD QUIZ 1.dll

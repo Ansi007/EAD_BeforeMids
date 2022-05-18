@@ -1,0 +1,11 @@
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\WinForms\WinForms\bin\Debug\WinForms.exe.config
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\WinForms\WinForms\bin\Debug\WinForms.exe
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\WinForms\WinForms\bin\Debug\WinForms.pdb
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\WinForms\WinForms\obj\Debug\WinForms.csproj.AssemblyReference.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\WinForms\WinForms\obj\Debug\WinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\WinForms\WinForms\obj\Debug\WinForms.Form1.resources
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\WinForms\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\WinForms\WinForms\obj\Debug\WinForms.csproj.GenerateResource.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\WinForms\WinForms\obj\Debug\WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\WinForms\WinForms\obj\Debug\WinForms.exe
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\WinForms\WinForms\obj\Debug\WinForms.pdb

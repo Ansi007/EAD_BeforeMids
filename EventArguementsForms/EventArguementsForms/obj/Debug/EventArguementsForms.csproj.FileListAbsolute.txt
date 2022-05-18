@@ -1,0 +1,11 @@
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventArguementsForms\EventArguementsForms\bin\Debug\EventArguementsForms.exe.config
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventArguementsForms\EventArguementsForms\bin\Debug\EventArguementsForms.exe
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventArguementsForms\EventArguementsForms\bin\Debug\EventArguementsForms.pdb
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventArguementsForms\EventArguementsForms\obj\Debug\EventArguementsForms.csproj.AssemblyReference.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventArguementsForms\EventArguementsForms\obj\Debug\EventArguementsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventArguementsForms\EventArguementsForms\obj\Debug\EventArguementsForms.Form1.resources
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventArguementsForms\EventArguementsForms\obj\Debug\EventArguementsForms.Properties.Resources.resources
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventArguementsForms\EventArguementsForms\obj\Debug\EventArguementsForms.csproj.GenerateResource.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventArguementsForms\EventArguementsForms\obj\Debug\EventArguementsForms.csproj.CoreCompileInputs.cache
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventArguementsForms\EventArguementsForms\obj\Debug\EventArguementsForms.exe
+C:\Users\Anns\Desktop\6th Semester Material\EAD\Lectures\EventArguementsForms\EventArguementsForms\obj\Debug\EventArguementsForms.pdb
